@@ -92,7 +92,7 @@ Leitos Psiquiátricos e Força de Trabalho em Saúde Mental 15 linhas e 4 coluna
 ### Wellcome
 O tratamento da Wellcome foi focado em três pontos:
 ##### Na coluna EMP_2010
-Aqui é identifico um padrão em Poland onde apenas neste pais teve resultado nulo, assim é identificado que foi um problema na distribuição interna do questionário.
+Aqui é identificado um padrão em Poland onde apenas neste pais teve resultado nulo, assim é identificado que foi um problema na distribuição interna do questionário.
 Para solucionar este problema identificamos que a maior parte da população trabalha no formato 
 Full-time e a partir disso, vamos supor que estes outros 10 também trabalhem desta forma.
 
@@ -103,7 +103,7 @@ Isso de primeira vista parece deixar o Dataset inutilizável mas olhando melhor 
 Visto que é um dicionário e não importa como vai ser respondido para fins de pesquisa, não é um problema da parte de quem realizou mas do ponto de vista de quem vai analisar os dados isso é um problemas pois é muito fácil se perder em dados variados por isso eles ficarão por padrão como inteiro.
 
 ### OMS
-O tratamento da Wellcome foi focado em dois pontos:
+O tratamento da OMS foi focado em dois pontos:
 ##### Na coluna Code
 Isso de primeira vista parece que o Dataset é estranho pois tem muitos campos nulos mais vemos no dicionario que Code significa um código para o pais  porem nem tudo salvo ali são países, o Dataset também salva regiões como por exemplo, Africa, America do Sul, Leste Europeu e etc; e isso realmente não tem uma sigla correta como por exemplo, Brasil - 'BR', Estados Unidos - 'EUA'.
 ##### Colunas nulas
