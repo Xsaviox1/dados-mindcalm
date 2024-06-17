@@ -131,10 +131,16 @@ Como o aplicativo será vendido para empresas, poder mostrar o quanto a ansiedad
 #### População que sofre de falta de sono por ansiedade
 Como o aplicativo será vendido para empresas, poder mostrar o quanto a ansiedade afeta a empresa e a saúde dos funcionários é importante na hora de mostrar os benefícios na hora de adotar o MindCalm.
 
+
+# Utilização do Atlas
+O Atlas foi conectado e usado de forma a manter os dados originais para ter uma consulta mais rápida do que precisar inserir diretamente os dados e por segurança pois como estão na nuvem eles não serão perdidos e nem destruídos por um tratamento errado.
+
+# Arquivo requirements.txt
+O arquivo guarda informação para a instalação do **pyspark** e o **pymongo** em versão que são compatíveis no momento da criação evitando problemas futuros de versão.
+
 # Dicionário de Dados
 
 ### Abrange a maior parte das variáveis
-
 
 
 ![Parte 1](https://i.ibb.co/J3kxT6b/image.jpg)
